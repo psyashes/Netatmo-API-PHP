@@ -45,7 +45,7 @@ foreach ($data["devices"] as $device) {
 //Slackで通知
 function sendMessageAtSlack($message)
 {
-    $url = "投稿先のURL";
+    $url = "https://hooks.slack.com/services/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";
     $json = array(
         "channel" => "#3-notify-netatmo",
         "username" => "netatmo",
