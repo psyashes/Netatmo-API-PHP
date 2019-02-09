@@ -10,7 +10,7 @@ $config = array(
     "client_id" => "5c5e6d850b04dc13008d6cc7",
     "client_secret" => "3rbQHDOk28gjzb0I18b0aWrKHvUwJTW7cvKKpEwD9cK",
     "username" => "ryu.kida@valu.is",
-    "password" => "password"
+    "password" => "1Password;"
 );
 
 //WSに接続して情報を取得しメッセージ文を作る
